@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "c9072f724b7fdf4d5ae569b729c7bf5b41ca7a94ce691162487a955b5c42cb73",
+    "UpdateHash": "691903e00d9a1357d312f562b9c1955e2be1cb7bf10740ac2361eb96650b6fdd",
     "OSVersions": [
         {
             "OSVersion": "17",
@@ -100,6 +100,19 @@
                     "ReleaseDate": "2024-05-20T00:00:00Z",
                     "ReleaseType": "OS",
                     "SecurityInfo": "This update has no published CVE entries.",
+                    "SupportedDevices": [],
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 7
+                },
+                {
+                    "UpdateName": "iOS 17.5 and iPadOS 17.5",
+                    "ProductName": "iOS",
+                    "ProductVersion": "17.5",
+                    "ReleaseDate": "2024-05-13T00:00:00Z",
+                    "ReleaseType": "OS",
+                    "SecurityInfo": "https://support.apple.com/kb/HT214101",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
@@ -183,19 +196,6 @@
                         "iPhone16,1",
                         "iPhone16,2"
                     ],
-                    "CVEs": {},
-                    "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 0,
-                    "DaysSincePreviousRelease": 7
-                },
-                {
-                    "UpdateName": "iOS 17.5 and iPadOS 17.5",
-                    "ProductName": "iOS",
-                    "ProductVersion": "17.5",
-                    "ReleaseDate": "2024-05-13T00:00:00Z",
-                    "ReleaseType": "OS",
-                    "SecurityInfo": "https://support.apple.com/kb/HT214101",
-                    "SupportedDevices": [],
                     "CVEs": {
                         "CVE-2024-27804": false,
                         "CVE-2024-27816": false,
@@ -902,7 +902,20 @@
                     "ReleaseDate": "2024-05-13T00:00:00Z",
                     "ReleaseType": "OS",
                     "SecurityInfo": "https://support.apple.com/kb/HT214100",
-                    "SupportedDevices": [],
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
                     "CVEs": {
                         "CVE-2024-27805": false,
                         "CVE-2024-27817": false,
@@ -1780,7 +1793,20 @@
                     "ReleaseDate": "2022-09-12T00:00:00Z",
                     "ReleaseType": "OS",
                     "SecurityInfo": "https://support.apple.com/kb/HT213446",
-                    "SupportedDevices": [],
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
                     "CVEs": {
                         "CVE-2022-42795": false,
                         "CVE-2022-32827": false,
